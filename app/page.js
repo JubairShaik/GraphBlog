@@ -43,14 +43,6 @@ export default async function page() {
          <div className="lg:col-span-4 col-span-1">
           <div className="lg:sticky relative top-8">
 
-          {/* {categories.map((post, index) => (
-
-
-          <PostWidget  post={post.node}  />
-
-        ))}     */}
-
-            
             {console.log(categories)}
 
  
